@@ -1,0 +1,38 @@
+.terrario1{
+    width: 100%;
+    padding:5px;
+    margin-bottom: 7px;
+}
+
+.terrario2{
+    width: 100%;
+    padding:5px;
+    margin-bottom: 7px; 
+}
+
+h6{
+    font-size: 22px;
+    margin-top: 7px;
+}
+
+@media (min-width:1024px){
+    .terrario1{
+        width: 40%;
+    }
+    
+    .terrario2{
+        width: 55%;
+        margin: auto;
+        display: block;
+    }
+    
+    .lateral{
+        margin-top:-53%;
+        margin-left: 45%;
+    }
+
+    h6{
+        font-size: 26px;
+        margin-top: 10px;
+    }
+}
