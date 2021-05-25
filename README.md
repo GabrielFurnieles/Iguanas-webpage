@@ -9,7 +9,7 @@ To run the codes you don't need any specific software, just windows/mac/linux.
 If you want to edit the code then you will need a coding software that supports HTML & CSS language, like CodeBlocks, VisualStudioCode...
 
 ### 🛠️ Builded with
-[Visual Studio Code](https://www.codeblocks.org/)
+[Visual Studio Code](https://code.visualstudio.com/)
 
 ### ✒️ Authors
 Gabriel Furnieles
